@@ -1,3 +1,0 @@
-VLAD withtout normalization: Top-1 accuracy: 0.535 - mAP: 0.4033210785067465
-VLAD normalization: Top-1 accuracy: 0.8261111111111111 - mAP: 0.6329035300001081
-Exemplar classification: Top-1 accuracy: 0.8841666666666667 - mAP: 0.7522596145823554
